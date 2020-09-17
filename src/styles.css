@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.pokemon-placard {
+  border: 1px solid black;
+  color: blue;
+}
